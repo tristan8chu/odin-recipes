@@ -1,0 +1,16 @@
+body {
+  background-color: rgb(240, 220, 185);
+  font-family: 'Arial', 'sans-serif';
+}
+
+.heading {
+  color: rgb(255, 102, 0);
+}
+
+.title {
+  text-align: center;
+}
+
+.subtitle {
+  text-align: left;
+}
